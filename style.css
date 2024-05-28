@@ -1,0 +1,93 @@
+.outer-box{
+    background-color: #028391;
+    height: 616px;
+    width: 1350px;
+    
+    text-align: center;
+}
+
+.salsa-regular{
+    font-family: "Salsa", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: #27292e;
+    font-size: 60px;
+    padding-top: 18%;
+  }
+  
+  .noto-sans-elymaic-regular {
+    font-family: "Noto Sans Elymaic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+  }
+  
+
+  .profile{
+    align-items: center;
+    text-align: center;
+  }
+
+  .profile-pic {
+    border-radius: 25%;
+    margin-top: 60px;
+  }
+  
+  h2 {
+    font-size: 40px;
+    color: rgb(155, 40, 40);
+  }
+
+  .intro{
+    font-family: "Noto Sans Elymaic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+
+  }
+
+  .interest{
+    align-items: center;
+    text-align: center;
+  }
+
+  .gaaming{
+    border-radius: 50%;
+    height: 125px;
+    margin-top: 30px;
+    
+  }
+
+  .music-img{
+    border-radius: 10%;
+    margin-top: 30px;
+    
+  }
+
+  h3 {
+    font-size: 25px;
+    color: rgb(155, 40, 40);
+  }
+
+  .contact-me{
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+  }
+
+  .btn{
+    background-color: rgb(155, 40, 40);
+    color: aliceblue;
+    border-radius: 4px;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    text-decoration: none;
+    font-family: "Montserrat", sans-serif;
+    
+  }
+
+  .container{
+    list-style: none;
+  }
